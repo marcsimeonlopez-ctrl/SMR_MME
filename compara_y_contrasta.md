@@ -1,31 +1,25 @@
 Comparación y contraste
-Planificación
-Tema: Tipos de switches de teclado mecánico que hay.
-Audiencia: Lo que saben o quizás ya sepan sobre su tema => + -
-Antecedentes.
-Propósito: Señalar similitudes (comparar) y diferencias importantes (contrastar) para hacer pensar que switch va mejor depende de su situación.
-Lluvia de ideas: uso de un diagrama de Venn
-Esquema:
-Introducción (Hook + TS + alcance)
-Cuerpo (idea principal_n + soporte_n) x 1..n
-Conclusión
-Escritura
-Introducción
-Gancho + Contexto + TE + Spoiler de la presentación
-¿Estas cansado de jugar a las 3 de la mañana y que tu teclado haga mucho ruido?
-Cuando es tarde, todos queremos paz, incluso la gente que se queda hasta tarde jugando, pero si no tienes el switch correcto en el teclado pueden hacer mucho ruido, molestando a los demás.
-Ya esta comprobado que el switch rojo es el más silencioso, pero quizás no te convence su respuesta, por ello, hoy voy a comparar los tipos de switches que hay con sus cualidades para que encontréis cual es vuestro switch.
-(TS) Declaración de tesis: Ideas principales sobre el tema + opinión + alcance
-(PS) Vista previa de la oración: resume las oraciones temáticas de cada párrafo del cuerpo
-Párrafo principal:
-Usa palabras de transición
-COMPARAR similitudes (de la misma manera, similitud, me gusta, ninguna)
-Para CONTRASTE diferencias (Por otro lado, En contraste, A diferencia, Mientras)
-Estructura: (A) Estilo de bloque
-(B) Estilo alterno
-Conclusión
-Resumir las ideas principales + Predicción o pensamiento final
-Borrador (introducción con un gancho + información de fondo + una conclusión que resuma los puntos principales + hacer una predicción o pensamiento final + un título)
-Revisión y edición
-Estructura: conecta los párrafos a la introducción
-Lenguaje: utilizar lenguaje académico, comparar adjetivos y adverbios y comparar estructuras.
+AMD Ryzen vs Intel Core
+1. Rendimiento: ¿Quién es el rey hoy?
+AMD:Domina los videojuegos gracias a su tecnología 3D V-Cache
+Intel:Es el maestro de la Multitarea, con su arquitectura híbrida (núcleos de alto rendimiento P-cores y núcleos eficientes E-cores), los chips como el Core Ultra 9 285K suelen ganar en productividad pesada
+2. Eficiencia Energética: El gran cambio
+AMD:Los Ryzen 9000 suelen entregar más rendimiento por cada vatio consumido. Esto significa menos calor y facturas de luz ligeramente más bajas bajo carga máxima.
+Intel:Con la serie Core Ultra 200, han mejorado la eficiencia en reposo y tareas ligeras, aunque bajo estrés máximo suelen seguir demandando un poco más de energía que AMD
+3. Precio y Valor a Largo Plazo
+a. El Costo del Procesador (CPU)
+Gama Media:
+Intel:190€ - 210€
+AMD:220€ - 240€
+Gama ALta:
+Intel:350€
+AMD:450€ - 480€
+b. El Costo de la "Plataforma" (Placa Base y RAM)
+Intel:Al ser una plataforma relativamente nueva en 2026, las placas base  siguen teniendo un impuesto de novedad. Además, Intel ya no soporta memorias DDR4; obligatoriamente necesitas DDR5, que es más cara.
+AMD:Puedes encontrar placas base B650 muy baratas y sólidas. Aunque también requiere DDR5, la oferta de placas base de entrada es mucho más amplia y económica que la de Intel.
+3. El Valor de la Longevidad (El "ahorro" futuro)
+La apuesta de AMD: Si compras una placa base AM5 hoy, AMD ha prometido soporte hasta 2027 o más. Esto significa que en 3 años podrás comprar un procesador nuevo y simplemente cambiarlo. Ahorro estimado: 150€ - 250€
+La apuesta de Intel: Históricamente, Intel cambia de socket cada 2 generaciones. Si compras Intel hoy, es muy probable que cuando quieras actualizar tu CPU, también tengas que tirar tu placa base a la basura y comprar una nueva.
+4. Conclusión:
+Elige AMD si: Tu prioridad es jugar al máximo nivel posible, quieres un PC que sea fácil de actualizar en 3 años sin cambiar la placa base, o buscas la mejor eficiencia energética.
+Elige Intel si: Trabajas profesionalmente en creación de contenido, valoras tecnologías como Thunderbolt para periféricos rápidos, o buscas un sistema muy equilibrado para el día a día
