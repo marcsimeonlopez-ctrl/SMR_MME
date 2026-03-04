@@ -21,9 +21,9 @@ Intel:Con la serie Core Ultra 200, han mejorado la eficiencia en reposo y tareas
 
 Intel:190€ - 210€
 
-#### AMD:220€ - 240€
+AMD:220€ - 240€
 
-Gama ALta:
+#### Gama ALta:
 
 Intel:350€
 
