@@ -4,6 +4,7 @@
 ## 1. Rendimiento: ¿Quién es el rey hoy?
 
 AMD:Domina los videojuegos gracias a su tecnología 3D V-Cache
+
 Intel:Es el maestro de la Multitarea, con su arquitectura híbrida, los chips como el Core Ultra 9 285K suelen ganar en productividad pesada
 
 ## 2. Eficiencia Energética: El gran cambio
