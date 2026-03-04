@@ -17,7 +17,7 @@ AMD:450€ - 480€
 b. El Costo de la "Plataforma" (Placa Base y RAM)
 Intel:Al ser una plataforma relativamente nueva en 2026, las placas base  siguen teniendo un impuesto de novedad. Además, Intel ya no soporta memorias DDR4; obligatoriamente necesitas DDR5, que es más cara.
 AMD:Puedes encontrar placas base B650 muy baratas y sólidas. Aunque también requiere DDR5, la oferta de placas base de entrada es mucho más amplia y económica que la de Intel.
-3. El Valor de la Longevidad (El "ahorro" futuro)
+c. El Valor de la Longevidad (El "ahorro" futuro)
 La apuesta de AMD: Si compras una placa base AM5 hoy, AMD ha prometido soporte hasta 2027 o más. Esto significa que en 3 años podrás comprar un procesador nuevo y simplemente cambiarlo. Ahorro estimado: 150€ - 250€
 La apuesta de Intel: Históricamente, Intel cambia de socket cada 2 generaciones. Si compras Intel hoy, es muy probable que cuando quieras actualizar tu CPU, también tengas que tirar tu placa base a la basura y comprar una nueva.
 4. Conclusión:
