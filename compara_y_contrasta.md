@@ -20,11 +20,13 @@ Intel:Con la serie Core Ultra 200, han mejorado la eficiencia en reposo y tareas
 Gama Media:
 
 Intel:190€ - 210€
+
 AMD:220€ - 240€
 
 Gama ALta:
 
 Intel:350€
+
 AMD:450€ - 480€
 
 ### b. El Costo de la "Plataforma" (Placa Base y RAM)
