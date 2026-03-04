@@ -2,7 +2,7 @@ Comparación y contraste
 AMD Ryzen vs Intel Core
 1. Rendimiento: ¿Quién es el rey hoy?
 AMD:Domina los videojuegos gracias a su tecnología 3D V-Cache
-Intel:Es el maestro de la Multitarea, con su arquitectura híbrida (núcleos de alto rendimiento P-cores y núcleos eficientes E-cores), los chips como el Core Ultra 9 285K suelen ganar en productividad pesada
+Intel:Es el maestro de la Multitarea, con su arquitectura híbrida, los chips como el Core Ultra 9 285K suelen ganar en productividad pesada
 2. Eficiencia Energética: El gran cambio
 AMD:Los Ryzen 9000 suelen entregar más rendimiento por cada vatio consumido. Esto significa menos calor y facturas de luz ligeramente más bajas bajo carga máxima.
 Intel:Con la serie Core Ultra 200, han mejorado la eficiencia en reposo y tareas ligeras, aunque bajo estrés máximo suelen seguir demandando un poco más de energía que AMD
