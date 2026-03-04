@@ -17,11 +17,11 @@ Intel:Con la serie Core Ultra 200, han mejorado la eficiencia en reposo y tareas
 
 ### a. El Costo del Procesador (CPU)
 
-Gama Media:
+#### Gama Media:
 
 Intel:190€ - 210€
 
-AMD:220€ - 240€
+#### AMD:220€ - 240€
 
 Gama ALta:
 
